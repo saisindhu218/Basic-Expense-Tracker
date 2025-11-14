@@ -106,4 +106,4 @@ This project is open source and available under the [MIT License](LICENSE).
 3. **Save the file**
 4. **Commit and push** to GitHub
 
-## Rachabattuni Sai Sindhu
+ Rachabattuni Sai Sindhu
